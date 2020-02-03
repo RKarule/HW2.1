@@ -97,7 +97,6 @@ header{
         grid-template-rows: 1fr;
         justify-items: center;
         align-items: center;
-        background-image: url(/image/michal-parzuchowski-GikVY_KS9vQ-unsplash.jpg);
         background-size: cover;
         margin: 10px 0px 10px 0px;
     }
